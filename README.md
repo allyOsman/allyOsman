@@ -30,7 +30,7 @@ Backend development, REST APIs, file‑upload systems, database design, performa
 ### 📫 How to reach me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn‑AllyNgonyani‑blue?logo=linkedin)](https://www.linkedin.com/in/ally‑ngonyani)  
 [![GitHub](https://img.shields.io/badge/GitHub‑@allyOsman‑black?logo=github)](https://github.com/allyOsman)  
-[![Email](https://img.shields.io/badge/Email‑ally.osman.dev%40gmail.com‑red?logo=gmail)](mailto:ally.osman.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email‑ally.osman.dev%40gmail.com‑red?logo=gmail)](mailto:ally.a.ngonyany36@gmail.com)
 
 ---
 
