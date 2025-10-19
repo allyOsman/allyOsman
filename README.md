@@ -1,4 +1,4 @@
-[allyOsman_GitHubProfile_README.md](https://github.com/user-attachments/files/22988483/allyOsman_GitHubProfile_README.md)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hi%20there!%20👋&animation=fadeIn&type=waving&color=gradient&height=120" alt="header"/>
 </p>
