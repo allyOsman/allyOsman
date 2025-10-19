@@ -1,21 +1,65 @@
-# 💫 About Me:
-Hi, I'm Ally A. — Full Stack Developer | JS & Python Enthusiast
+[allyOsman_GitHubProfile_README.md](https://github.com/user-attachments/files/22988483/allyOsman_GitHubProfile_README.md)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hi%20there!%20👋&animation=fadeIn&type=waving&color=gradient&height=120" alt="header"/>
+</p>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ally_osmany) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ally_osmany) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:allyathumany36@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=allyOsman&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=allyOsman&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=allyOsman&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h1 align="center">I’m <strong>Ally A. Ngonyani</strong></h1>
+<p align="center">Full‑Stack Developer | Node.js & MongoDB Enthusiast | Open Source Advocate</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=allyOsman&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔭 What I’m working on  
+- Building a secure File Management REST API using Node.js, Express, MongoDB & Multer  
+- Automating deployments and CI/CD pipelines  
+- Contributing to open‑source, mentoring juniors & growing in DevOps
+
+---
+
+### 🌱 What I’m learning  
+- Microservices architecture with Kubernetes  
+- GraphQL & Apollo Server  
+- Serverless functions on AWS & GCP
+
+---
+
+### 💬 Ask me about  
+Backend development, REST APIs, file‑upload systems, database design, performance optimisation
+
+---
+
+### 📫 How to reach me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn‑AllyNgonyani‑blue?logo=linkedin)](https://www.linkedin.com/in/ally‑ngonyani)  
+[![GitHub](https://img.shields.io/badge/GitHub‑@allyOsman‑black?logo=github)](https://github.com/allyOsman)  
+[![Email](https://img.shields.io/badge/Email‑ally.osman.dev%40gmail.com‑red?logo=gmail)](mailto:ally.osman.dev@gmail.com)
+
+---
+
+### 🛠️ Skills & Technologies  
+<p align="left">
+  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=allyOsman&show_icons=true&theme=default" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allyOsman&layout=compact&theme=default" alt="Top Languages"/>
+</p>
+
+> _“Code is like humour. When you have to explain it, it’s bad.”_ — Cory House
+
+---
+
+### 🎯 Favourite Quote  
+> “The only way to do great work is to love what you do.” — Steve Jobs
+
+---
+
+Thank you for visiting my profile! 👋
