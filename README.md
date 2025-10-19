@@ -4,41 +4,41 @@
   <img src="https://capsule-render.vercel.app/api?text=Hi%20there!%20👋&animation=fadeIn&type=waving&color=gradient&height=120" alt="header"/>
 </p>
 
-<h3 align="center">Full-Stack Developer | Node.js & MongoDB Enthusiast | Open Source Advocate</h3>
+<h3 align="center">Full-Stack Developer | Cloud Native & AI/ML Enthusiast | Open Source Advocate</h3>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer with expertise in building robust backend systems and scalable web applications. I specialize in Node.js, Express, MongoDB, and modern DevOps practices. I'm deeply committed to writing clean, efficient code and contributing to the open-source community.
+I'm a passionate full-stack developer specializing in building scalable backend systems and cloud-native applications. With expertise across Python, Node.js, and modern cloud technologies, I focus on creating robust, efficient solutions that solve real-world problems. I'm particularly interested in backend architecture, cloud infrastructure, and AI/ML applications.
 
 ---
 
 ## 🔭 Current Projects
 
-### **File Management REST API**
-- **Tech Stack**: Node.js, Express, MongoDB, Multer
-- **Features**: Secure file uploads, user authentication, role-based access control
-- **Status**: Actively developing with focus on security and scalability
+### **Cloud-Native Microservices Platform**
+- **Tech Stack**: Python, FastAPI, Kubernetes, AWS, PostgreSQL
+- **Features**: Containerized microservices, auto-scaling, service mesh integration
+- **Status**: Building scalable architecture for distributed systems
 
-### **CI/CD Automation**
-- Implementing automated deployment pipelines
-- Containerization with Docker and orchestration with Kubernetes
-- Infrastructure as Code practices
+### **AI-Powered Application**
+- **Tech Stack**: Python, FastAPI, React, Tailwind CSS
+- **Features**: Machine learning integration, real-time data processing, responsive UI
+- **Status**: Developing intelligent features and API endpoints
 
-### **Open Source & Mentorship**
-- Contributing to open-source projects
-- Mentoring junior developers
-- Expanding DevOps knowledge and practices
+### **DevOps Automation**
+- Implementing CI/CD pipelines with Docker and Kubernetes
+- Infrastructure as Code with AWS cloud services
+- Monitoring and logging solutions for cloud applications
 
 ---
 
 ## 🌱 Currently Learning
 
-- **Microservices Architecture** with Kubernetes
-- **GraphQL & Apollo Server** for efficient API development
-- **Serverless Computing** on AWS & GCP
-- **Advanced DevOps** practices and tools
+- **Advanced Kubernetes** patterns and operators
+- **Machine Learning** model deployment and MLOps
+- **AWS Advanced Services** (EKS, Lambda, RDS, S3)
+- **System Design** for high-availability applications
 
 ---
 
@@ -46,42 +46,68 @@ I'm a passionate full-stack developer with expertise in building robust backend 
 
 ### **Backend Development**
 <p align="left">
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img alt="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
+  <img alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
   <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
   <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
 </p>
 
-### **DevOps & Infrastructure**
+### **Frontend Development**
 <p align="left">
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
+  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+</p>
+
+### **Cloud & DevOps**
+<p align="left">
+  <img alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
   <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="40" height="40"/>
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
+</p>
+
+### **Databases**
+<p align="left">
+  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
 </p>
 
 ### **Areas of Expertise**
-- **REST API Design & Development**
-- **File Upload Systems & Management**
+- **Backend API Development** (REST, GraphQL)
+- **Cloud Native Architecture**
 - **Database Design & Optimization**
-- **Performance Optimization**
-- **System Architecture**
-- **CI/CD Pipelines**
+- **Containerization & Orchestration**
+- **System Performance & Scalability**
+- **CI/CD Pipeline Development**
+
+---
+
+## 🎯 Interests & Focus Areas
+
+- **Backend Development**: Building scalable and maintainable server-side applications
+- **Cloud Native Systems**: Designing systems optimized for cloud environments
+- **AI/ML Integration**: Implementing machine learning models in production systems
+- **Open Source**: Contributing to and maintaining open source projects
+- **Mentorship**: Gu aspiring developers in their technical journey
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=allyOsman&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allyOsman&layout=compact&theme=default" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=allyOsman&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allyOsman&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 ---
 
 ## 💬 Let's Connect
 
-I'm always open to discussing technology, collaboration opportunities, or just having a friendly chat about software development.
+I'm always excited to discuss technology, collaborate on interesting projects, or share knowledge about cloud-native development and AI/ML applications.
 
 ### 📫 Reach Me At
 
@@ -93,7 +119,7 @@ I'm always open to discussing technology, collaboration opportunities, or just h
 
 ## 💡 Philosophy
 
-> **"Code is like humour. When you have to explain it, it's bad."** — Cory House
+> **"The function of good software is to make the complex appear to be simple."** — Grady Booch
 
 > **"The only way to do great work is to love what you do."** — Steve Jobs
 
@@ -102,16 +128,16 @@ I'm always open to discussing technology, collaboration opportunities, or just h
 ## 🤝 Collaboration
 
 I'm particularly interested in:
-- Open source contributions
-- Backend system architecture discussions
-- Performance optimization challenges
-- Mentoring opportunities
-- DevOps and infrastructure projects
+- **Backend System Architecture** design and optimization
+- **Cloud Native Development** and infrastructure
+- **AI/ML Projects** with practical applications
+- **Open Source Contributions** to meaningful projects
+- **Technical Mentorship** and knowledge sharing
 
 ---
 
 <p align="center">
-  <i>Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate or just talk tech. 👋</i>
+  <i>Thanks for stopping by! Feel free to explore my repositories or reach out if you'd like to collaborate on building something amazing. 🚀</i>
 </p>
 
 <p align="center">
