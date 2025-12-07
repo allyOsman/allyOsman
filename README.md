@@ -104,6 +104,10 @@ I'm a passionate full-stack developer specializing in building scalable backend 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allyOsman&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allyOsman&theme=default&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
 ---
 
 ## 💬 Let's Connect
