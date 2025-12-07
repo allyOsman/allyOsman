@@ -1,4 +1,4 @@
-👋 Hi there! I'm Ally A. Ngonyani
+# 👋 Hi there! I'm Ally A. Ngonyani
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hi%20there!%20👋&animation=fadeIn&type=waving&color=gradient&height=120" alt="header"/>
@@ -6,153 +6,177 @@
 
 <h3 align="center">Full-Stack Developer | Cloud Native & AI/ML Enthusiast | Open Source Advocate</h3>
 
----
-
-## 🚀 About Me
-
-I'm a passionate full-stack developer specializing in building scalable backend systems and cloud-native applications. With expertise across Python, Node.js, and modern cloud technologies, I focus on creating robust, efficient solutions that solve real-world problems. I'm particularly interested in backend architecture, cloud infrastructure, and AI/ML applications.
-
----
-
-## 🔭 Current Projects
-
-### **Cloud-Native Microservices Platform**
-- **Tech Stack**: Python, FastAPI, Kubernetes, AWS, PostgreSQL
-- **Features**: Containerized microservices, auto-scaling, service mesh integration
-- **Status**: Building scalable architecture for distributed systems
-
-### **AI-Powered Application**
-- **Tech Stack**: Python, FastAPI, React, Tailwind CSS
-- **Features**: Machine learning integration, real-time data processing, responsive UI
-- **Status**: Developing intelligent features and API endpoints
-
-### **DevOps Automation**
-- Implementing CI/CD pipelines with Docker and Kubernetes
-- Infrastructure as Code with AWS cloud services
-- Monitoring and logging solutions for cloud applications
-
----
-
-## 🌱 Currently Learning
-
-- **Advanced Kubernetes** patterns and operators
-- **Machine Learning** model deployment and MLOps
-- **AWS Advanced Services** (EKS, Lambda, RDS, S3)
-- **System Design** for high-availability applications
-
----
-
-## 💼 Technical Skills
-
-### **Backend Development**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ally-ngonyani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/allyOsman" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:ally.osman.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-### **Frontend Development**
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+---
+
+## 📖 About Me
+
+I'm a passionate full-stack developer with a strong focus on backend systems and cloud-native architectures. My expertise spans across Python, Node.js, and modern cloud technologies, with a particular interest in creating scalable, efficient solutions that address real-world challenges. I thrive on backend architecture, cloud infrastructure, and the practical application of AI/ML technologies.
+
+**Key Interests:**
+- 🏗️ Backend System Architecture
+- ☁️ Cloud Native Development
+- 🤖 AI/ML Integration
+- 🚀 DevOps & Automation
+- 📚 Open Source Contribution
+
+---
+
+## 🛠️ Technical Stack
+
+### **Languages & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
 </p>
 
 ### **Cloud & DevOps**
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
 </p>
 
 ### **Databases**
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
-
-### **Areas of Expertise**
-- **Backend API Development** (REST, GraphQL)
-- **Cloud Native Architecture**
-- **Database Design & Optimization**
-- **Containerization & Orchestration**
-- **System Performance & Scalability**
-- **CI/CD Pipeline Development**
-
----
-
-## 🎯 Interests & Focus Areas
-
-- **Backend Development**: Building scalable and maintainable server-side applications
-- **Cloud Native Systems**: Designing systems optimized for cloud environments
-- **AI/ML Integration**: Implementing machine learning models in production systems
-- **Open Source**: Contributing to and maintaining open source projects
-- **Mentorship**: Guiding aspiring developers in their technical journey
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=allyOsman&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allyOsman&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allyOsman&theme=default&hide_border=true" alt="GitHub Streak" height="165"/>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
 </p>
 
 ---
 
-## 💬 Let's Connect
+## 🚀 Featured Projects
 
-I'm always excited to discuss technology, collaborate on interesting projects, or share knowledge about cloud-native development and AI/ML applications.
+### **Cloud-Native Microservices Platform**
+Building a scalable microservices architecture using Python, FastAPI, and Kubernetes. Focus on containerization, service discovery, and distributed systems patterns.
 
-### 📫 Reach Me At
+### **AI-Powered Analytics Dashboard**
+Developing an intelligent dashboard with machine learning capabilities for real-time data processing and visualization using React and FastAPI.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ally-ngonyani">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/allyOsman">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:ally.osman.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+### **Infrastructure Automation Suite**
+Creating automated deployment pipelines and infrastructure management tools using AWS CDK and Terraform for cloud resource provisioning.
 
 ---
 
-## 💡 Philosophy
+## 📈 GitHub Activity
 
-> **"The function of good software is to make the complex appear to be simple."** — Grady Booch
+<!-- GitHub Stats Cards - Try different services -->
+<div align="center">
 
-> **"The only way to do great work is to love what you do."** — Steve Jobs
+### 📊 My GitHub Statistics
+
+<!-- Try this alternative format -->
+![Ally's GitHub stats](https://github-readme-stats.vercel.app/api?username=allyOsman&show_icons=true&theme=radical&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allyOsman&layout=compact&theme=radical&hide_title=true)
+
+<!-- Activity Graph -->
+![Ally's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=allyOsman&theme=github-dark&hide_border=true)
+
+<!-- Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=allyOsman&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
-## 🤝 Collaboration
+## 📚 Currently Learning & Exploring
 
-I'm particularly interested in:
-- **Backend System Architecture** design and optimization
-- **Cloud Native Development** and infrastructure
-- **AI/ML Projects** with practical applications
-- **Open Source Contributions** to meaningful projects
-- **Technical Mentorship** and knowledge sharing
+- **Advanced Kubernetes**: Service mesh (Istio), operators, and multi-cluster management
+- **MLOps**: Model deployment, monitoring, and lifecycle management
+- **Cloud Architecture**: Advanced AWS services and best practices
+- **System Design**: Scalable patterns for high-traffic applications
+- **Rust**: Systems programming for performance-critical applications
 
 ---
 
-<p align="center">
-  <i>Thanks for stopping by! Feel free to explore my repositories or reach out if you'd like to collaborate on building something amazing. 🚀</i>
-</p>
+## 🏆 Expertise Areas
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=allyOsman&color=blue&style=flat" alt="Profile Views"/>
-</p>
+### **Backend Development**
+- RESTful & GraphQL API design
+- Microservices architecture
+- Database optimization & scaling
+- Authentication & authorization systems
+- Message queues & event-driven architecture
+
+### **Cloud Engineering**
+- Infrastructure as Code (Terraform, AWS CDK)
+- Container orchestration
+- Serverless architectures
+- CI/CD pipeline design
+- Monitoring & observability
+
+### **AI/ML Integration**
+- Model serving & deployment
+- Data pipeline development
+- Real-time inference systems
+- MLOps practices
+
+---
+
+## 🤝 Collaboration & Contributions
+
+I'm actively looking to collaborate on:
+- **Open Source Projects** in backend/cloud space
+- **AI/ML Applications** with practical use cases
+- **DevOps Tools** and automation frameworks
+- **Educational Content** for developers
+
+**Let's build something amazing together!**
+
+---
+
+## 📬 Get in Touch
+
+I'm always open to discussing technology, potential collaborations, or just having a friendly chat about software development.
+
+**Preferred Contact Methods:**
+- 📧 **Email**: [ally.osman.dev@gmail.com](mailto:ally.osman.dev@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/ally-ngonyani](https://www.linkedin.com/in/ally-ngonyani)
+- 💻 **GitHub**: [github.com/allyOsman](https://github.com/allyOsman)
+
+---
+
+## 💭 Development Philosophy
+
+> *"First, solve the problem. Then, write the code."* – John Johnson
+
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* – Martin Fowler
+
+> *"The most powerful tool we have as developers is automation."* – Scott Hanselman
+
+---
+
+<div align="center">
+
+### ⭐️ Support My Work
+
+If you find my projects useful, consider giving them a star on GitHub!
+
+[![Star History Chart](https://api.star-history.com/svg?repos=allyOsman&type=Date)](https://star-history.com/#allyOsman&Date)
+
+---
+*Thanks for visiting! Have a great day! 😊*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=allyOsman&color=blueviolet&style=flat-square)
+
+</div>
