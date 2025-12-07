@@ -113,16 +113,7 @@ I'm a passionate full-stack developer specializing in building scalable backend 
 
 <!-- ALTERNATIVE GITHUB STATS - Try different combinations -->
 
-### Option 1: Direct Image Links
-<div align="center">
-
-![Ally's GitHub Stats](https://github-readme-stats.vercel.app/api?username=allyOsman&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allyOsman&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
-
-</div>
-
-### Option 2: Different Service
+### Different Service
 <div align="center">
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allyOsman&theme=github_dark)
@@ -132,13 +123,6 @@ I'm a passionate full-stack developer specializing in building scalable backend 
 
 </div>
 
-### Option 3: Simple Stats
-<div align="center">
-
-| ![Ally's GitHub Stats](https://github-readme-stats.vercel.app/api?username=allyOsman&show_icons=true&theme=default) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allyOsman&layout=compact&theme=default) |
-| ------------- | ------------- |
-
-</div>
 
 ---
 
